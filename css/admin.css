@@ -1,0 +1,144 @@
+
+header{
+    background-color:#FF9999;
+}
+h2,.errmsg,.compmsg{
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-right: auto;
+    width: 700px;
+}
+
+.addh1{
+    padding:10px 0px 10px 0px; 
+    background-color: #e6e6fa; 
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight:bold;
+    width:160px;
+    text-align: center;
+}
+.add_frame{
+    padding: 10px;
+    background-color: #e6e6fa;   
+}
+
+.frame{
+    width: 958px;
+    height: 110px;
+    border:solid 1px black;
+    margin-bottom:10px; 
+    background-color: #ffffe0;
+}
+
+.img,.name_price,.stock,.category,.comennt_box{
+    padding-right:5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-right: solid 1px black;
+}
+
+.name_price,.stock,.category,.comennt_box,.status_delete{
+    padding-left: 5px;
+}
+
+.img{
+    padding-left: 5px;
+    width:100px;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.name_price{
+    width: 220px;
+}
+
+.stock{
+    width:100px;
+}
+
+.category{
+    width: 150px;
+}
+
+.comennt_box{
+    width: 288px;
+}
+
+.status_delete{
+    width: 100px;
+    padding-right:5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.stock_head,.cat_head,.com1,.com2{
+    width:100%;
+}
+
+.stock_foot{
+    width: 50px;
+}
+.add_form{
+    margin-top: 5px;
+}
+
+.add_comennt_frame{
+    border:dashed 2px blue;
+    padding:3px;
+    width:400px;
+}
+
+.add_submit{
+    background-color: #e6e6fa;
+    text-align: center;
+    width:100px;
+    margin-left: auto;
+    padding-bottom: 10px;
+}
+
+.add_center{
+    margin-left: 10px;
+}
+
+.comment_box1,.comment_box2{
+    margin-left: 5px;
+}
+
+.comment_box2{
+    margin-top: 3px;
+}
+
+.comment_form{
+    width: 220px;
+}
+    
+.any{
+    text-align: center;
+}
+
+.delete_submit{
+    margin: 20px auto 0px auto;
+    width: 100%;
+    background-color: #db7093;
+}
+
+.change_list{
+    width: 700px;
+}
+
+.category_radio{
+    margin: 0px 3px;
+}
+
+.change_erea{
+    background-color:#dddddd;
+    padding-top: 5px;
+}
+
+.wrap{
+    flex-wrap: wrap;
+}

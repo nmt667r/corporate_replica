@@ -1,0 +1,111 @@
+
+.frame{
+    width: auto;
+    border:solid 1px black;
+    margin: 20px;
+    padding: 10px;
+}
+
+.img_box{
+    height: 150px;
+    width: 150px;
+    border:solid 1px black;
+}
+
+.img{
+
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    text-align: center;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+    
+}
+
+.var_box{
+    margin-left: 15px;
+    width:100%;
+}
+
+.name{
+    height:28px;
+    font-size: 20px;
+    margin-right: auto;
+    
+}
+.amount_print{
+    height:28px;
+    font-size: 16px;
+    text-align:end;
+    margin: 0px 10px;
+    padding-top: 5px;
+    
+}
+
+.belly{
+
+    margin-top: 10px;
+    height:28px;
+}
+
+.price{
+    width:150px;
+    padding-left: 20px;
+    margin-right:30px;
+}
+.amount_form{
+    width: 100px;
+    height: 20px;
+    text-align:end;
+    margin-left: 300px;
+}
+
+.amount_submit{
+    margin-left: 10px;
+}
+
+.stock_none{
+    font-size: 22px;
+}
+.delete{
+    margin:20px auto 0px auto;
+    text-align: center;
+    
+}
+
+.delete_submit{
+        height: 30px;
+        width: 200px;
+}
+
+.stock{
+    margin-top: 10px;
+}
+.not_enough{
+    font-size: 16px;
+    color:green;
+}
+
+.stock_print{
+    margin-right: 10px;
+    margin-left: auto;
+}
+
+.total{
+    margin-left: 200px;
+    margin-right: auto;
+}
+
+.buy{
+    margin-right:30px;
+    margin-left: auto;
+}
+
+.under_space{
+    margin-bottom: 50px;
+}
+
